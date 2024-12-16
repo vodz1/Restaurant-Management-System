@@ -14,6 +14,7 @@ A restaurant management system built with Node.js, RabbitMQ, and Docker. This ap
 Run the following commands to clone the repository and navigate to the project directory:
 
 git clone https://github.com/vodz1/Restaurant-Management-System.git
+
 cd restaurant-management-system
 
 ### 2. install the dependencies
